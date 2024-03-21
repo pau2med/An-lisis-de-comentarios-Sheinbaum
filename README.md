@@ -42,3 +42,22 @@ Crear un pizarrón de Canva claro y visual.
 Ensayar la presentación para que dure entre 5 y 10 minutos.
 Preparar respuestas para posibles preguntas de la maestra y los compañeros.
 
+# Tecnóloga:
+
+## Documentación del uso de Herramientas
+
+###### Proceso:
+
+1. En primer lugar, empleamos YouTube para seleccionar el video deseado y extraer su enlace correspondiente.
+
+2. Seguidamente, al ingresar los comentarios en VoyanTools, utilizamos la herramienta Data Tool.
+
+3. A continuación, insertamos una porción del enlace del video y optamos por la opción "HTML", lo que nos proporcionó información detallada, incluyendo: los usuarios que comentaron, los propios comentarios, la fecha y hora de realización de cada comentario, los usuarios que respondieron a los comentarios, así como los enlaces a los canales de los usuarios.
+
+4. Para depurar los comentarios, nos valimos de Google Docs. Posteriormente, guardamos el archivo en formato PDF y lo transferimos a VoyanTools.
+
+5. Una vez dentro de la plataforma, accedimos a las herramientas para seleccionar y buscar específicamente los comentarios que reflejaran la reacción del pueblo mexicano hacia la candidata presidencial más popular del país.
+
+
+
+
