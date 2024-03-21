@@ -11,7 +11,7 @@ Interna: mantener al equipo informado, proponer colaboración y mantener coheren
 Externa: comunicar los resultados de la investigación, explicar el análisis de 500 comentarios del video de YouTube con este link: https://www.youtube.com/watch?v=nWLQLbYTJN4
 
 ###### 2. Público Objetivo
-Interna: [Natalia Investigadora](https://github.com/Nataliagcanez/Mi-perfil-/commits?author=Nataliagcanez), [Paulina tecnóloga](https://github.com/pau2med) , [Dana líder del equipo](https://github.com/Danacab) , [Juan Pablo Comunicador](https://github.com/jpmartinezz8/mi-perfil)
+Interna: [Natalia Investigadora](https://github.com/Nataliagcanez/Mi-perfil-/blob/main/investigadora), [Paulina tecnóloga](https://github.com/pau2med) , [Dana líder del equipo](https://github.com/Danacab) , [Juan Pablo Comunicador](https://github.com/jpmartinezz8/mi-perfil)
 
 Externa: compañeros de clase de HD y maestra Teresa.
 
