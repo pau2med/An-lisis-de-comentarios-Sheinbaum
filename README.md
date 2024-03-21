@@ -9,8 +9,7 @@ Interna: mantener al equipo informado, proponer colaboración y mantener coheren
 Externa: comunicar los resultados de la investigación, explicar el análisis de 500 comentarios del video de YouTube con este link: https://www.youtube.com/watch?v=nWLQLbYTJN4
 
 ###### 2. Público Objetivo
-Interna: investigadora [Natalia](https://github.com/Nataliagcanez/Mi-perfil-/commits?author=Nataliagcanez), tecnóloga (Paulina) y líder del equipo (Danna).
-Externa: compañeros de la clase de HD y Teresa la maestra de la clase.
+Interna: [Natalia Investigadora](https://github.com/Nataliagcanez/Mi-perfil-/commits?author=Nataliagcanez), [Paulina tecnóloga](https://github.com/pau2med) , [Dana líder del equipo](https://github.com/Danacab) , [Juan Pablo Comunicador](https://github.com/jpmartinezz8/mi-perfil)
 
 ###### 3. Canales de Comunicación
 Interna: reuniones regulares por zoom, Google Docs, WhatsApp.
