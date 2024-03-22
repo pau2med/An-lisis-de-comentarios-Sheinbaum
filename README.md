@@ -1,5 +1,48 @@
 # An-lisis-de-comentarios-Sheinbaum
 
+## Introducción general:
+En la actualidad la era digital,  los videos en plataformas han emergido como una de las formas más populares de consumir contenido en la web. Nuestro proyecto se enfocará en el análisis de comentarios del video elegido, evaluar, identificar y comprender las preferencias y tendencias del público. Este proyecto de análisis de comentarios de video se propone como una herramienta invaluable para comprender mejor la dinámica de la comunidad en línea.
+
+## Objetivos :
+Identificar tendencias emergentes en los comentarios del video que puedan indicar cambios en las preferencias o intereses del público objetivo.
+Identificar temas recurrentes y relevantes en los comentarios de los videos para comprender las preferencias y preocupaciones de la audiencia.
+Evaluar la recepción del contenido de video mediante el análisis de la cantidad y el tono de los comentarios, así como la interacción y participación de la audiencia.
+
+# Equipo:
+Dana Cabiedes [ lídereza ](https://github.com/Danacab)
+Natalia Gutierrez [ Investigadora](https://github.com/Nataliagcanez/Mi-perfil-/blob/main/investigadora)
+Paulina Medina  [ tecnóloga](https://github.com/pau2med)
+Juan Pablo Martinez [ Comunicador](https://github.com/jpmartinezz8/mi-perfil)
+
+# Lidereza :
+
+## Documentación sobre el equipo
+
+# Cronograma:
+Establecimiento de criterios para la selección de los videos a analizar (Martes 19 de Marzo, 2024)
+Investigación y planificación (Jueves 21 de Marzo, 2024)
+Selección de herramientas y recursos necesarios para la implementación (Viernes 22 de Marzo, 2024)
+Recopilación de datos de comentarios de video de la plataformas seleccionada (Lunes 25 de Marzo, 2024)
+Ajustes finales (Viernes 29 de Marzo, 2024)
+
+# Recursos materiales usados 
+Youtube (selección de video, comentarios, link)
+Voyan Tools (Ingresar comentarios del video)
+Data Tools (análisis y clasificación de los comentarios)
+Google docs
+
+# Actas de reuniones 
+Fecha: 21 de Marzo de 2024
+Hora: 4pm
+Lugar: Zoom
+Asistentes: Dana, Paulina, Juan Pablo y Natalia 
+
+Se revisaron los objetivos del proyecto de análisis de comentarios de videos y se confirmó la comprensión general de todos los miembros del equipo.
+Se discutió la planificación inicial del proyecto, incluyendo la asignación de tareas y responsabilidades.
+
+
+
+
 # Comunicador:
 
 ## Documentación de la Estrategia de Comunicación
