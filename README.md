@@ -104,6 +104,36 @@ Preparar respuestas para posibles preguntas de la maestra y los compañeros.
 
 5. Una vez dentro de la plataforma, accedimos a las herramientas para seleccionar y buscar específicamente los comentarios que reflejaran la reacción del pueblo mexicano hacia la candidata presidencial más popular del país.
 
+# investigadora: 
+
+Objetivo: la reacción del pueblo mexicano a la candidata presidencial más popular del país 
+
+Preguntas de investigación: ¿cuál es la reacción del pueblo mexicano a la candidata Claudia Sheinbaum? 
+
+Metodología de investigación: 
+1- ver el video
+2- leer algunos de los comentarios para darnos una idea del tipo de comentarios que son 
+3- copiar los comentarios y pegarlos en Voyantools
+4- analizar los resultados 
+5- comprobar nuestra pregunta de investigación 
+
+Recopilación de datos: Junto con la ayuda de VoyanTools nosotros logramos encontrar patrones dentro de las palabras más usadas y de esa forma comprender cierta información sobre lo que se comenta en el video de Claudia Sheinbaum 
+
+Palabras más usadas: 
+1- Claudia 
+2- Viva 
+3- Todos 
+4- Equipo
+5- Morena 
+
+
+De que trata el video: El video habla sobre la presentación del equipo de campaña de la doctora Claudia Sheinbaum, misma que es candidata para la presidencia por el partido de Morena.  
+
+VIDEO: https://www.youtube.com/live/nWLQLbYTJN4?si=7V_RFWkmEugpQQ4L 
+
+Lo que nosotros estamos buscando encontrar con este proyecto es un patrón en las palabras más mencionadas en los comentarios del video para lograr comprender cuál es la opinión del pueblo mexicano sobre este tema. 
+
+Nosotros encontramos que las palabras más usadas en el video son por lo general positivas y que apuntan ser a favor del partido de la doctora. Son palabras que muestran cierta unión y apoyo.  
 
 
 
